@@ -1,5 +1,5 @@
 import java.io.*;
-//Basic
+//Basic test
 class io
 {
 	static int read_int()
